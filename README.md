@@ -51,4 +51,4 @@ I’m merging **offense and defense** to **understand attacks before they happen
 
 ---
 
-> “If I don't do it, then who will? That's just it, there's no one. But I can do it. In fact, I'm the only one who can. I'll do it. I'll change the world.” – God of the New World
+> “If I don't do it, then who will? That's just it, there's no one. But I can do it. In fact, I'm the only one who can. I'll do it. I'll change the world.” – Light Yagami (God of the New World)

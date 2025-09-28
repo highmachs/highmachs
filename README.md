@@ -12,11 +12,30 @@ Focused on **offensive security, threat hunting, and autonomous defense experime
 - **Future Exploration:** Quantum safe security, exploit development, and automated defense intelligence
 
 ## 📊 Quick Dev Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=highmachs&show_icons=true&theme=dark&hide_border=true" width="520" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=highmachs&theme=dark&hide_border=true" width="420" alt="Streak Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmachs&layout=compact&theme=dark&hide_border=true" width="360" alt="Top Languages" /> 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=highmachs&show_icons=true&theme=radical&hide_border=true" width="500" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=highmachs&theme=radical&hide_border=true" width="500" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmachs&layout=compact&theme=radical&hide_border=true" width="500" alt="Top Languages"/>
+</p>
+
+
+
+## ⚡ Dynamic Extras
+- ⏳ **Profile Views Counter**  
+  ![Profile Views](https://komarev.com/ghpvc/?username=highmachs&color=blueviolet&style=for-the-badge)
+
+- 💡 **Activity Graph**  
+  [![highmachs' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=highmachs&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠 Skills & Tools
 

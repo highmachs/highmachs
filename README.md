@@ -1,5 +1,5 @@
-# 👋 Hey there! Hope you're doing well, I'm highmachs
-*Cybersecurity Explorer | Offensive Security Enthusiast | Building the Future of Autonomous Security*
+# 👋 Hey there! Hope you're doing well, I'm highmachs 
+*Cybersecurity Explorer | Offensive Security Enthusiast | Building the Future of Autonomous Security | Co-Owner of AhiLight*
 
 ## 🔥 About Me
 I’m a Cybersecurity student and relentless offensive security enthusiast with a passion for **Space, Aviation, and Futuristic Security experiments**.

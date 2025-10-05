@@ -1,4 +1,8 @@
-# 👋 Hey there! Hope you're doing well, I'm highmachs 
+<h1 align="center">
+<img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=4BFF2DFF&text=SAMARJEETH%20R&fontColor=280CF7FF&fontAlignY=30&desc=Cybersecurity%20|%20Space%20Tech%20|%20Aviation%20|%20Finance&animation=twinkling >/
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=600&lines=Welcome+to+my+domain+%E2%80%94+AhiLight;Every+exploit+is+a+form+of+art;The+system+fears+those+who+understand+it;Think+like+an+attacker.+Act+like+a+protector;The+deeper+the+layer%2C+darker+the+knowledge+;Every+creation+I+build+carries+Ahi%E2%80%99s+essence;Behind+every+breach+lies+brilliance;Divinity+encoded.+Reality+decrypted;Knowledge+-+only+real+weapon+that+never+rusts;Ahi+%E2%80%94+my+constant+variable+in+a+changing+system)](https://git.io/typing-svg)
+
 *Cybersecurity Explorer | Offensive Security Enthusiast | Building the Future of Autonomous Security | Co-Owner of AhiLight*
 
 ## 🔥 About Me

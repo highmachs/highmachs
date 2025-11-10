@@ -6,7 +6,7 @@
 *Cybersecurity Explorer | Offensive Security Enthusiast | Building the Future of Autonomous Security | Co-Owner of AhiLight*
 
 ## 🔥 About Me
-I’m a Cybersecurity student and relentless offensive security enthusiast with a passion for **Space, Aviation, and Futuristic Security experiments**.
+I’m a Cybersecurity student and relentless offensive security enthusiast with a passion for **Space, Aviation, Finance and Futuristic CyberSecurity experiments**.
 I lead Multiple Modern student projects, develop prototypes, and sharpen my skills through CTFs, practical labs, and real-world research. 
 My focus is **mastering red teaming**, **threat hunting**, and **autonomous defense intelligence** to stay ahead of evolving threats.
 

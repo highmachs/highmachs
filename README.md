@@ -20,7 +20,9 @@ My focus is **mastering red teaming**, **threat hunting**, and **autonomous defe
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=highmachs&show_icons=true&theme=radical&hide_border=true" width="500" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highmachs&theme=radical&hide_border=false" 
+       width="96%"
+    />
 </p>
 
 <p align="center">
@@ -30,9 +32,11 @@ My focus is **mastering red teaming**, **threat hunting**, and **autonomous defe
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmachs&layout=compact&theme=radical&hide_border=true" width="500" alt="Top Languages"/>
+  <img src="https://github-readme-stats-highmachs.vercel.app/api/top-langs/?username=highmachs&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10" 
+    width="30%"
+    style="display: inline-block;" 
+    />
 </p>
-
 
 
 ## ⚡ Dynamic Extras

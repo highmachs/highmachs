@@ -79,8 +79,10 @@ My focus is **mastering red teaming**, **threat hunting**, and **autonomous defe
 - Actively exploring **quantum security**, advanced Red Team strategies, and autonomous defense systems
 
 ## 🎖️**Recent CTF Achievements:**
-- Huntress CTF 2025 - Day 1 Completed ✅
-- Multiple TryHackMe learning paths completed
+- Multiple TryHackMe CTFs completed
+- Won my UNI's IEEE day celeb ctf - 2nd place
+- Won my UNI's Preimier Cyber Club's HAVOC CTF - 1st place
+- Huntress CTF 2025
 
 ## ⚡ **Fun Fact**  
 I’m merging offense and defense to understand attacks before they happen—think of it as my personal mini cyber lab. Beyond the digital battlefield, I play guitar and piano and read about space exploration, cryptography, and futuristic tech. I follow SETI and other space projects closely and many times lose myself stargazing in the night sky with my telescope

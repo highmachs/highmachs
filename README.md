@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=SAMARJEETH%20R&animation=twinkling&fontColor=00FF19&fontAlign=50&fontAlignY=29 >
+<img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=HIGHMACHS%20&animation=twinkling&fontColor=00FF19&fontAlign=50&fontAlignY=29 >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=600&lines=Welcome+to+my+domain+%E2%80%94+AhiLight;Every+exploit+is+a+form+of+art;The+system+fears+those+who+understand+it;Think+like+an+attacker.+Act+like+a+protector;The+deeper+the+layer%2C+darker+the+knowledge+;Every+creation+I+build+carries+Ahi%E2%80%99s+essence;Behind+every+breach+lies+brilliance;Divinity+encoded.+Reality+decrypted;Knowledge+-+only+real+weapon+that+never+rusts;Ahi+%E2%80%94+my+constant+variable+in+a+changing+system)](https://git.io/typing-svg)
 
@@ -88,7 +88,6 @@ My focus is **mastering red teaming**, **threat hunting**, and **autonomous defe
 I’m merging offense and defense to understand attacks before they happen—think of it as my personal mini cyber lab. Beyond the digital battlefield, I play guitar and piano and read about space exploration, cryptography, and futuristic tech. I follow SETI and other space projects closely and many times lose myself stargazing in the night sky with my telescope
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newworldofsamarjeeth/)  
 📧 newworldofsamarjeeth@gmail.com
 
 > “This world is rotten, and those who are making it rot deserve to vanish! Someone has to do it, so why not me? ... I can do it! In fact... I'm the only one who can! I'll do it. I'll change the world....” – Light Yagami (God of the New World)

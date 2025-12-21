@@ -1,33 +1,39 @@
 <h1 align="center">
-<img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=HIGHMACHS%20&animation=twinkling&fontColor=00FF19&fontAlign=50&fontAlignY=29 >
+<img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=SAMARJEETH%20R%20&animation=twinkling&fontColor=00FF19&fontAlign=50&fontAlignY=29 >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=600&lines=Welcome+to+my+domain+%E2%80%94+AhiLight;Every+exploit+is+a+form+of+art;The+system+fears+those+who+understand+it;Think+like+an+attacker.+Act+like+a+protector;The+deeper+the+layer%2C+darker+the+knowledge+;Every+creation+I+build+carries+Ahi%E2%80%99s+essence;Behind+every+breach+lies+brilliance;Divinity+encoded.+Reality+decrypted;Knowledge+-+only+real+weapon+that+never+rusts;Ahi+%E2%80%94+my+constant+variable+in+a+changing+system)](https://git.io/typing-svg)
 
-*Cybersecurity Explorer | Offensive Security Enthusiast | Building the Future of Autonomous Security | Co-Owner of AhiLight*
+*Software & Security Engineering Student | Secure Autonomous Systems, Secure SDLC & Trading Infrastructure | Cybersecurity, Finance & Systems Research | Co-Owner of AhiLight*
 
 ## 🔥 About Me
-I’m a Cybersecurity student and relentless offensive security enthusiast with a passion for **Space, Aviation, Finance and Futuristic CyberSecurity experiments**.
-I lead Multiple Modern student projects, develop prototypes, and sharpen my skills through CTFs, practical labs, and real-world research. 
-My focus is **mastering red teaming**, **threat hunting**, and **autonomous defense intelligence** to stay ahead of evolving threats.
+
+I’m a Computer Science and Cybersecurity student with a strong focus on building secure, scalable software systems at the intersection of **cybersecurity, finance, aerospace, and emerging technologies**. I work on modern student-led projects, design and test engineering prototypes, and continuously sharpen my skills through CTFs, hands-on labs, and applied research.
+
+My core interests lie in **security engineering**, **adversarial system analysis**, and **autonomous defense intelligence**, with an emphasis on understanding how real-world systems fail and how to engineer them to be resilient, reliable, and future-ready. I’m particularly drawn to high-impact domains such as trading infrastructure, financial platforms, and mission-critical systems where correctness, performance, and security are non-negotiable.
+
 
 ## 🚀 Current Focus
-- **Autonomous Security Systems:** Designing and testing modular defensive and offensive workflows  
-- **Honeypot Experiments:** Learning attacker behavior and automation responses  
-- **Red Team Skills:** Web exploitation, enumeration, scripting, and advanced threat simulations  
-- **Future Exploration:** Quantum safe security, exploit development, and automated defense intelligence
+
+- **Autonomous & Low-Latency Software Systems:** Designing modular, scalable systems with emphasis on determinism, fault tolerance, automation, and security. Inspired by architectures used in trading infrastructure and real-time financial platforms.
+- **Secure SDLC for Financial Applications:** Applying SSDLC practices including threat modeling, secure coding standards, code reviews, and testing pipelines to ensure correctness, integrity, and resilience in fintech and market-facing software.
+- **Market Data & Trading System Foundations:** Exploring software design behind trading engines, market data ingestion, portfolio analytics, order flows, and risk-aware computation with a focus on performance and reliability.
+- **Security Engineering with Adversarial Insight:** Using red team fundamentals, web exploitation, enumeration, and scripting to proactively identify weaknesses and harden production systems, especially in finance-grade environments.
+- **Behavior Analysis & Automated Defense:** Studying attacker behavior through honeypot experiments and translating insights into automated detection, response logic, and defensive controls applicable to financial and enterprise systems.
+- **Risk, Integrity & Future-Ready Security:** Understanding how latency, correctness, data integrity, and security intersect in market-driven systems. Exploring quantum-safe cryptography, defensive exploit research, and AI-assisted security automation.
+
 
 ## 📊 Quick Dev Snapshot
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=highmachs&theme=radical&hide_border=false" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=highmachs&theme=redical&bg_color=0d1117&color=00ffff&line=00ffff&point=c9d1d9&hide_border=true" 
        width="96%"
     />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=highmachs&theme=radical&hide_border=true" width="500" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=highmachs&theme=radical&hide_border=true" width="500" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -38,23 +44,28 @@ My focus is **mastering red teaming**, **threat hunting**, and **autonomous defe
     />
 </p>
 
-
-## ⚡ Dynamic Extras
 - ⏳ **Profile Views Counter**  
   ![Profile Views](https://komarev.com/ghpvc/?username=highmachs&color=blueviolet&style=for-the-badge)
 
-- 💡 **Activity Graph**  
-  [![highmachs' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=highmachs&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🛠 Skills & Tools
 
-| Offensive Skills           | Defensive Skills           | Tools & Tech               |
-|----------------------------|----------------------------|----------------------------|
-| Exploit Development        | Threat Detection           | Python ![Python](https://img.shields.io/badge/Python-65%25-yellowgreen) |
-| Red Team Operations        | Incident Response          | Bash ![Bash](https://img.shields.io/badge/Bash-75%25-blue) |
-| Vulnerability Research     | Automated Mitigation       | Nmap, Burp Suite, Wireshark |
-| Phishing Simulation        | Secure Logging             | Metasploit, sqlmap, netcat  |
-| Network PenTesting         | Web Application Security   | John the Ripper, Hydra     |
+| Software Engineering Skills | Security Engineering Skills | Tools & Technologies |
+|-----------------------------|-----------------------------|----------------------|
+| Data Structures & Algorithms | Secure Coding Practices | ![Python](https://img.shields.io/badge/Python-80%25-yellowgreen?logo=python&logoColor=white) |
+| Object-Oriented Programming | Threat Modeling (STRIDE) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) |
+| Backend Development (APIs, Services) | Vulnerability Assessment | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) (Foundational) |
+| System Design & Architecture | Web Application Security | ![Bash](https://img.shields.io/badge/Bash-60%25-blue?logo=gnu-bash&logoColor=white) |
+| Database Design & Querying | Secure Authentication & Authorization | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) |
+| Concurrency & Process Basics | Incident Analysis & Response | ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white) |
+| Debugging & Performance Optimization | Log Analysis & Secure Logging | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| Modular & Scalable Code Design | Defensive Automation | ![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?logo=docker&logoColor=white) |
+| Software Testing & Validation | Attack Surface Analysis | ![REST](https://img.shields.io/badge/REST-API-blue) |
+| Algorithmic Problem Solving | Network Security Fundamentals | ![Nmap](https://img.shields.io/badge/Nmap-004170) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) |
+| Code Reviews & Documentation | Input Validation & Hardening | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633) |
+| Automation & Scripting | Exploit Understanding (Defensive Use) | ![Metasploit](https://img.shields.io/badge/Metasploit-Lab%20Use-blueviolet) |
+| Agile Team Collaboration | Detection Engineering Basics | ![netcat](https://img.shields.io/badge/netcat-000000) ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000) |
+
+
 ## 🌱 Learning & Achievements
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-blue) 
 

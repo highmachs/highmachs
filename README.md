@@ -39,48 +39,174 @@ My core interests lie in **security engineering**, **adversarial system analysis
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-highmachs.vercel.app/api/top-langs/?username=highmachs&layout=pie&theme=radical&count_private=true&langs_count=20&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10&v=2" 
+  <img src="https://github-readme-stats-highmachs.vercel.app/api/top-langs/?username=highmachs&layout=pie&theme=radical&count_private=true&langs_count=9&hide=Batchfile,Open%20Policy%20Agent,Smarty,Makefile,Mako&bg_color=0d1117&border_color=00ffff&title_color=00ffff&text_color=c9d1d9&border_radius=10&v=2" 
     width="30%"
     style="display: inline-block;" 
     />
 </p>
 
-- ⏳ **Profile Views Counter**  
+⏳ **Profile Views Counter**  
   ![Profile Views](https://komarev.com/ghpvc/?username=highmachs&color=blueviolet&style=for-the-badge)
 
 ## 🛠 Skills & Tools
 
-| Software Engineering Skills | Security Engineering Skills | Tools & Technologies |
-|-----------------------------|-----------------------------|----------------------|
-| Data Structures & Algorithms | Secure Coding Practices | ![Python](https://img.shields.io/badge/Python-80%25-yellowgreen?logo=python&logoColor=white) |
-| Object-Oriented Programming | Threat Modeling (STRIDE) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) |
-| Backend Development (APIs, Services) | Vulnerability Assessment | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) (Foundational) |
-| System Design & Architecture | Web Application Security | ![Bash](https://img.shields.io/badge/Bash-60%25-blue?logo=gnu-bash&logoColor=white) |
-| Database Design & Querying | Secure Authentication & Authorization | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) |
-| Concurrency & Process Basics | Incident Analysis & Response | ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white) |
-| Debugging & Performance Optimization | Log Analysis & Secure Logging | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-| Modular & Scalable Code Design | Defensive Automation | ![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?logo=docker&logoColor=white) |
-| Software Testing & Validation | Attack Surface Analysis | ![REST](https://img.shields.io/badge/REST-API-blue) |
-| Algorithmic Problem Solving | Network Security Fundamentals | ![Nmap](https://img.shields.io/badge/Nmap-004170) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) |
-| Code Reviews & Documentation | Input Validation & Hardening | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633) |
-| Automation & Scripting | Exploit Understanding (Defensive Use) | ![Metasploit](https://img.shields.io/badge/Metasploit-Lab%20Use-blueviolet) |
-| Agile Team Collaboration | Detection Engineering Basics | ![netcat](https://img.shields.io/badge/netcat-000000) ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000) |
+<div align="center">
+
+<table>
+<tr>
+<th>Software Engineering Skills</th>
+<th>Security Engineering Skills</th>
+<th>Tools & Technologies</th>
+</tr>
+
+<tr>
+<td>Data Structures & Algorithms</td>
+<td>Secure Coding Practices</td>
+<td>
+<img src="https://img.shields.io/badge/Python-80%25-yellowgreen?logo=python&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Object-Oriented Programming</td>
+<td>Threat Modeling (STRIDE)</td>
+<td>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"><br>
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Backend Development (APIs, Services)</td>
+<td>Vulnerability Assessment</td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"> (Foundational)
+</td>
+</tr>
+
+<tr>
+<td>System Design & Architecture</td>
+<td>Web Application Security</td>
+<td>
+<img src="https://img.shields.io/badge/Bash-60%25-blue?logo=gnu-bash&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Database Design & Querying</td>
+<td>Secure Authentication & Authorization</td>
+<td>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Concurrency & Process Basics</td>
+<td>Incident Analysis & Response</td>
+<td>
+<img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Debugging & Performance Optimization</td>
+<td>Log Analysis & Secure Logging</td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"><br>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Modular & Scalable Code Design</td>
+<td>Defensive Automation</td>
+<td>
+<img src="https://img.shields.io/badge/Docker-Basic-2496ED?logo=docker&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Software Testing & Validation</td>
+<td>Attack Surface Analysis</td>
+<td>
+<img src="https://img.shields.io/badge/REST-API-blue">
+</td>
+</tr>
+
+<tr>
+<td>Algorithmic Problem Solving</td>
+<td>Network Security Fundamentals</td>
+<td>
+<img src="https://img.shields.io/badge/Nmap-004170"><br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>Code Reviews & Documentation</td>
+<td>Input Validation & Hardening</td>
+<td>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633">
+</td>
+</tr>
+
+<tr>
+<td>Automation & Scripting</td>
+<td>Exploit Understanding (Defensive Use)</td>
+<td>
+<img src="https://img.shields.io/badge/Metasploit-Lab%20Use-blueviolet">
+</td>
+</tr>
+
+<tr>
+<td>Agile Team Collaboration</td>
+<td>Detection Engineering Basics</td>
+<td>
+<img src="https://img.shields.io/badge/netcat-000000"><br>
+<img src="https://img.shields.io/badge/sqlmap-CC0000">
+</td>
+</tr>
+
+</table>
+
+</div>
 
 
 ## 🌱 Learning & Achievements
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-blue) 
 
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-green)  
+<div align="center">
 
-![picoCTF](https://img.shields.io/badge/picoCTF-Active-red)
+<table>
+<tr>
+<th>Cybersecurity / CTF</th>
+<th>Quant / Competitive Programming</th>
+</tr>
 
-![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-Active-orange)
+<tr>
+<td>
 
-![Cybrary](https://img.shields.io/badge/Cybrary-Learning-purple)
-
-![SANS-Cyber](https://img.shields.io/badge/SANS_Cyber_Access-Studying-lightgrey)
-
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-blue)<br>
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-green)<br>
+![picoCTF](https://img.shields.io/badge/picoCTF-Active-red)<br>
+![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-Active-orange)<br>
 ![OverTheWire](https://img.shields.io/badge/OverThe_Wire-Wargames-yellow)
+
+</td>
+<td>
+
+![Codeforces](https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB)<br>
+![CodeChef](https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638)<br>
+![LeetCode](https://img.shields.io/badge/LeetCode-DSA%2FAlgorithms-F89F1B)<br>
+![CSES](https://img.shields.io/badge/CSES-Problem_Set-2F7AE5)<br>
+![QuantQuestions.io](https://img.shields.io/badge/QuantQuestions.io-Quant_Interview_Prep-8A2BE2)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ## 📜**Certifications & Progress:**
 - CompTIA Security+ (In Progress)

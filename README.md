@@ -3,8 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=600&lines=Welcome+to+my+domain+%E2%80%94+AhiLight;Every+exploit+is+a+form+of+art;The+system+fears+those+who+understand+it;Think+like+an+attacker.+Act+like+a+protector;The+deeper+the+layer%2C+darker+the+knowledge+;Every+creation+I+build+carries+Ahi%E2%80%99s+essence;Behind+every+breach+lies+brilliance;Divinity+encoded.+Reality+decrypted;Knowledge+-+only+real+weapon+that+never+rusts;Ahi+%E2%80%94+my+constant+variable+in+a+changing+system)](https://git.io/typing-svg)
 
-*Software & Security Engineering Student | Secure Autonomous Systems, Secure SDLC & Trading Infrastructure | Cybersecurity, Finance & Systems Research | Co-Owner of AhiLight*
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=700&lines=Secure+Autonomous+Systems+%26+Quant+Trading+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1500&color=4DFF88&center=true&vCenter=true&width=700&lines=Cybersecurity%2C+SSDLC+and+Financial+Systems+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=4D79FF&center=true&vCenter=true&width=700&lines=Co-Owner+of+AhiLight)](https://git.io/typing-svg)
 ## 🔥 About Me
 
 I’m a Computer Science and Cybersecurity student with a strong focus on building secure, scalable software systems at the intersection of **cybersecurity, finance, aerospace, and emerging technologies**. I work on modern student-led projects, design and test engineering prototypes, and continuously sharpen my skills through CTFs, hands-on labs, and applied research.
@@ -90,8 +91,8 @@ My core interests lie in **security engineering**, **adversarial system analysis
 - Actively exploring **quantum security**, advanced Red Team strategies, and autonomous defense systems
 
 ## 🎖️**Recent CTF Achievements:**
-- Multiple TryHackMe CTFs completed
-- Won my UNI's IEEE day celeb ctf - 2nd place
+- Multiple TryHackMe,Picoctf's CTFs completed
+- Won my college IEEE day celeb ctf - 2nd place
 - Won my UNI's Preimier Cyber Club's HAVOC CTF - 1st place
 - Huntress CTF 2025
 

@@ -1,16 +1,20 @@
 <h1 align="center">
 <img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=HIGHMACHS%20&animation=twinkling&fontColor=00FF19&fontAlign=50&fontAlignY=29 >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=600&lines=Welcome+to+my+domain+%E2%80%94+AhiLight;Every+exploit+is+a+form+of+art;The+system+fears+those+who+understand+it;Think+like+an+attacker.+Act+like+a+protector;The+deeper+the+layer%2C+darker+the+knowledge+;Every+creation+I+build+carries+Ahi%E2%80%99s+essence;Behind+every+breach+lies+brilliance;Divinity+encoded.+Reality+decrypted;Knowledge+-+only+real+weapon+that+never+rusts;Ahi+%E2%80%94+my+constant+variable+in+a+changing+system)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=600&size=23&pause=1500&color=2E66F7&background=4BFF2D&center=true&vCenter=true&width=750&lines=Welcome+to+the+domain+of+AhiLight;Ahi.+My+constant+variable+in+an+ever-changing+system;Secure+Systems.+Intelligent+Infrastructure;Every+exploit+is+a+form+of+art;Knowledge.+The+only+weapon+that+never+rusts;Think+like+an+attacker.+Engineer+like+a+defender;The+system+fears+those+who+understand+it;Building+the+future+one+system+at+a+time;Code.+Security.+Markets.+Innovation;Financial+systems+demand+precision;Market+data+never+sleeps;Latency+matters.+Reliability+matters+more;Risk+understood+is+risk+controlled;The+deeper+the+layer,+the+darker+the+knowledge;Behind+every+breach+lies+brilliance;Knowledge+compounds+like+capital;AhiLight.+Where+security+and+markets+meet+intelligence)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=700&lines=Secure+Autonomous+Systems+%26+Quant+Finance+Infrastructure)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1500&color=4DFF88&center=true&vCenter=true&width=700&lines=Cybersecurity%2C+SSDLC+and+Financial+Systems+Research)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=4D79FF&center=true&vCenter=true&width=700&lines=Co-Owner+of+AhiLight)](https://git.io/typing-svg)
-## 🔥 About Me
 
-I’m a Computer Science and Cybersecurity student with a strong focus on building secure, scalable software systems at the intersection of **cybersecurity, finance, aerospace, and emerging technologies**. I work on modern student-led projects, design and test engineering prototypes, and continuously sharpen my skills through CTFs, hands-on labs, and applied research.
+## 🔥About Me
 
-My core interests lie in **security engineering**, **adversarial system analysis**, and **autonomous defense intelligence**, with an emphasis on understanding how real-world systems fail and how to engineer them to be resilient, reliable, and future-ready. I’m particularly drawn to high-impact domains such as trading infrastructure, financial platforms, and mission-critical systems where correctness, performance, and security are non-negotiable.
+Software engineer and security enthusiast focused on building secure, scalable, and reliable systems across cybersecurity, finance, and emerging technologies.
+
+My work centers on software engineering, security engineering, system design, automation, and adversarial analysis. I enjoy understanding how complex systems operate under stress, identifying failure points, and engineering resilient solutions that prioritize correctness, performance, and security.
+
+I am particularly interested in financial infrastructure, autonomous defense systems, quantitative technology, and mission-critical software where reliability and security are essential.
 
 
 ## 🚀 Current Focus
@@ -208,24 +212,25 @@ My core interests lie in **security engineering**, **adversarial system analysis
 </div>
 
 
-## 📜**Certifications & Progress:**
-- CompTIA Security+ (In Progress)
-- CEH (In Progress)
-- Offensive Security Operations (Cybrary)  
-- Threat Intelligence & Hunting (IBM)  
-- Cyber Kill Chains & Networking Fundamentals (Cisco)  
-- Actively exploring **quantum security**, advanced Red Team strategies, and autonomous defense systems
+## 📚 Current Learning Journey
+- Advanced Python, C++, and Systems Programming
+- Secure Software Development Lifecycle (SSDLC)
+- Web Application Security & API Security
+- Threat Detection and Incident Analysis
+- Trading Systems & Market Infrastructure
+- Distributed Systems Fundamentals
+- Quantitative Development Concepts
+- Security Automation & Tooling
+- Adversarial Analysis & Exploit Research
+- Applied Cryptography Fundamentals
+  
+## 🎯 Areas of Focus
+* Cybersecurity Research
+* Software Architecture
+* Financial Technology
+* Quantitative Systems
+* Space Technology
+* Open Source Development
 
-## 🎖️**Recent CTF Achievements:**
-- Multiple TryHackMe,Picoctf's CTFs completed
-- Won my college IEEE day celeb ctf - 2nd place
-- Won my UNI's Preimier Cyber Club's HAVOC CTF - 1st place
-- Huntress CTF 2025
-
-## ⚡ **Fun Fact**  
-I’m merging offense and defense to understand attacks before they happen—think of it as my personal mini cyber lab. Beyond the digital battlefield, I play guitar and piano and read about space exploration, cryptography, and futuristic tech. I follow SETI and other space projects closely and many times lose myself stargazing in the night sky with my telescope
-
-## 📫 Connect With Me
-📧 newworldofsamarjeeth@gmail.com
-
+  
 > “This world is rotten, and those who are making it rot deserve to vanish! Someone has to do it, so why not me? ... I can do it! In fact... I'm the only one who can! I'll do it. I'll change the world....” – Light Yagami (God of the New World)
